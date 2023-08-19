@@ -5,16 +5,19 @@
 # I am a Web-developer. I do educational projects
 
 ## My stacks
-+ HTML
-+ CSS
-+ JS
-+ TS
++ HTML / PUG
++ CSS / SASS / LESS / PostCSS / Bootstrap / Tailwind CSS
++ Javascript / Typescript
++ Vue.JS
++ Node.JS
 + PHP
++ Wordpress
 
 ## My tools
-+ Gulp
-+ Webpack
-+ Git
++ Gulp / Webpack
++ Figma / Adobe Photoshop
++ Git / GitHub
++ Jest
 
 ## My methods
 + BAM
