@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Hi, my name Roman Menshikov.
+# Hi, my name is Roman Menshikov.
 
 # I am a Web-developer. I do educational projects
 
@@ -8,16 +8,18 @@
 + HTML / PUG
 + CSS / SASS / LESS / PostCSS / Bootstrap / Tailwind CSS
 + Javascript / Typescript
-+ Vue.JS
-+ Node.JS
++ Vue.JS / Vuex / Pinia / Vuetify
++ React.JS
++ Node.JS / Express.JS
 + PHP
 + Wordpress
 
 ## My tools
 + Gulp / Webpack
 + Figma / Adobe Photoshop
-+ Git / GitHub
-+ Jest
++ Git / GitHub / GitLab
++ Jest / Jasmine
++ JSDoc
 
 ## My methods
 + BAM
