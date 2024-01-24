@@ -8,8 +8,8 @@
 + HTML / PUG
 + CSS / SASS / LESS / PostCSS / Bootstrap / Tailwind CSS
 + Javascript / Typescript
-+ Vue.JS / Vuex / Pinia / Vuetify
-+ React.JS
++ Vue.JS / Vuex / Pinia / Vuetify / Vue-Router
++ React.JS / Redux / React-Router
 + Node.JS / Express.JS
 + PHP
 + Wordpress
